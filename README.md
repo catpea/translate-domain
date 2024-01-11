@@ -3,7 +3,7 @@ OOP based numeric domain/range translation.
 
 ```JavaScript
 
-import TranslateDomain from './TranslateDomain.js';
+import TranslateDomain from 'translate-domain';
 
 // Establish Domain Ranges
 const basicDomain = new TranslateDomain([0, 100], [0, 1]);
